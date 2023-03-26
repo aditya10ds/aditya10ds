@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Kumar</h1>
 <hr/>
-<a href="#"><img width="100%" src="./Images/coder1.gif" height="350px"/></a>
-<p align="right">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%"/>
-</p>
+<a href="#"><img width="100%" src="./Images/coder1.gif" height="450px"/></a>
 
 <h3 align="center">I'm a passionate Data Science Aspirant.</h3>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%"/>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya10ds&label=Profile%20views&color=0e75b6&style=flat" alt="aditya10ds" /> </p>
