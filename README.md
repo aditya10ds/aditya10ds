@@ -1,7 +1,10 @@
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Kumar</h1>
 <hr/>
 <a href="#"><img width="100%" src="./Images/coder1.gif" height="350px"/></a>
-
+<p align="right">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%"/>
+</p>
 
 <h3 align="center">I'm a passionate Data Science Aspirant.</h3>
 
